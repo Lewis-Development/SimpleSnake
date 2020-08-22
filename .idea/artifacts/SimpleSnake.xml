@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleSnake">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleSnake</output-path>
+    <root id="archive" name="SimpleSnake.jar" />
+  </artifact>
+</component>
